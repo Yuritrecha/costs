@@ -1,0 +1,14 @@
+.form_container {
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 2em;
+}
+
+.form_container input {
+    margin-top: 1em;
+}
+
+.form_container select {
+    margin-top: 1em;
+}
