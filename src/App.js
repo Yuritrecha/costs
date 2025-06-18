@@ -13,7 +13,6 @@ import Container from './components/pages/static/Container';
 function App() {
   return (
     <Router>
-np
       <NavBar /> 
       <Container customClass="min-height">
       <Routes>
